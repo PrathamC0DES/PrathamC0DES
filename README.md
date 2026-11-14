@@ -11,18 +11,17 @@
 
 <hr />
 
-## 👨‍💻 About Me
+## About Me
 
-I specialize in building end-to-end AI applications, deep learning architectures, and intelligent autonomous agents. From training BERT models for fine-grained text classification to developing predictive environmental forecasting pipelines and real-time full-stack systems, I focus on turning complex machine learning research into functional, production-ready software.
+I am a **Software Engineer** and **Full-Stack Developer** focused on building robust, performant web applications and intelligent systems. From architecting responsive frontends to designing resilient backend APIs and integrating machine learning pipelines, I enjoy working across the complete product lifecycle.
 
-Currently exploring **autonomous agent workflows**, **LLM optimization**, and **distributed backend systems**.
+I prioritize clean architecture, maintainable code, and shipping software that solves concrete problems.
 
-- 🔭 **Current Focus:** Autonomous agentic workflows, LLM inference optimization, and predictive deep learning.
-- 💡 **Core Stack:** Python, PyTorch, Transformers, BERT, TypeScript, Docker & FastAPI.
-- 💬 **Ask me about:** Model evaluation, BERT, agentic automation, and real-time WebSockets.
-- ⚡ **Motto:** Build practical systems that solve real problems, not just hype.
-
-<hr />
+- **Full-Stack Development** › Building interactive, scalable web applications with TypeScript, React, Python, and Node.js.
+- **Backend & System Design** › Designing REST APIs, real-time WebSocket communication, and structured database models.
+- **Applied AI & Automation** › Integrating predictive models, machine learning, and automation workflows into practical applications.
+- **Core Philosophy** › Write readable code, optimize for performance, and maintain a high standard for developer experience.
+- **Stack & Languages** › Python, TypeScript, JavaScript, Java, React, FastAPI, Node.js, and SQL/NoSQL databases.
 
 ## 🛠️ Tech Stack
 
