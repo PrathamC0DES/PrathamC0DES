@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://media.tenor.com/YUzRkMOL-3EAAAAd/programming-computer-frog.gif" width="100%" alt="Coding GIF" />
   <p align="center" style="margin-top: 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=550&lines=AI+%26+Full-Stack+Developer;Building+Autonomous+Agents+%26+LLM+Apps;Turning+coffee+into+scalable+code;" alt="Typing subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=528EA3&background=FFFFFF00&center=true&vCenter=true&width=550&lines=AI+Augumented+Full-Stack+Developer;Building+Autonomous+Agents+%26+LLM+Apps;Turning+coffee+into+scalable+code;" alt="Typing subtitle" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## About Me
 
-I am a **Software Engineer** and **Full-Stack Developer** focused on building robust, performant web applications and intelligent systems. From architecting responsive frontends to designing resilient backend APIs and integrating machine learning pipelines, I enjoy working across the complete product lifecycle.
+I am a **Software Engineer** and **AI-augmented full-stack developer** focused on building robust, performant web applications and intelligent systems. From architecting responsive frontends to designing resilient backend APIs and integrating machine learning pipelines, I enjoy working across the complete product lifecycle.
 
 I prioritize clean architecture, maintainable code, and shipping software that solves concrete problems.
 
