@@ -11,6 +11,7 @@
   <a href="mailto:prathamm1014@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
   <a href="https://github.com/PrathamC0DES" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
+</div>
 
 <hr />
 
@@ -20,11 +21,13 @@ I am a **Software Engineer** and **Full-Stack Developer** focused on building ro
 
 I prioritize clean architecture, maintainable code, and shipping software that solves concrete problems.
 
-**Full-Stack Development** › Building interactive, scalable web applications with TypeScript, React, Python, and Node.js.
-**Backend & System Design** › Designing REST APIs, real-time WebSocket communication, and structured database models.
-**Applied AI & Automation** › Integrating predictive models, machine learning, and automation workflows into practical applications.
-**Core Philosophy** › Write readable code, optimize for performance, and maintain a high standard for developer experience.
-**Stack & Languages** › Python, TypeScript, JavaScript, Java, React, FastAPI, Node.js, and SQL/NoSQL databases.
+- **Full-Stack Development** › Building interactive, scalable web applications with TypeScript, React, Python, and Node.js.
+- **Backend & System Design** › Designing REST APIs, real-time WebSocket communication, and structured database models.
+- **Applied AI & Automation** › Integrating predictive models, machine learning, and automation workflows into practical applications.
+- **Core Philosophy** › Write readable code, optimize for performance, and maintain a high standard for developer experience.
+- **Stack & Languages** › Python, TypeScript, JavaScript, Java, React, FastAPI, Node.js, and SQL/NoSQL databases.
+
+<hr />
 
 ## 🛠️ Tech Stack
 
