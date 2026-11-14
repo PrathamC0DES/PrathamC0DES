@@ -27,14 +27,14 @@ Currently exploring **autonomous agent workflows**, **LLM optimization**, and **
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp" />
-  <img src="https://skillicons.dev/icons?i=opencv" />
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi" />
-  <img src="https://skillicons.dev/icons?i=docker,linux" />
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,opencv" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,nodejs,fastapi" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,postgresql,mongodb,mysql,git,github" />
+
 </div>
+
 
 <hr />
 
