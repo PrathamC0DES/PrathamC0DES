@@ -1,4 +1,5 @@
 # Pratham Mishra
+**CS @ Bennett University**
 <div align="center">
   <img src="https://media.giphy.com/media/F6X1dy3k98VLRbCl1u/giphy.gif" width="480" alt="Coding GIF" />
   <p align="center" style="margin-top: 0;">
