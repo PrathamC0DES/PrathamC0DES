@@ -1,6 +1,6 @@
 <h1 align="center" style="margin-bottom: 0; color: #58A6FF;">Pratham Mishra</h1>
 <p align="center" style="margin-top: 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=550&lines=AI+%26+;Full-Stack+Developer;Building+Autonomous+Agents+%26+LLM+Apps;Turning+coffee+into+scalable+code;" alt="Typing subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=550&lines=AI+%26+Full-Stack+Developer;Building+Autonomous+Agents+%26+LLM+Apps;Turning+coffee+into+scalable+code;" alt="Typing subtitle" />
 </p>
 
 <p align="center">
