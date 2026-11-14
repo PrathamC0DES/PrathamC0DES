@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/pratham-mishra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:prathamm1014@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
   <a href="https://github.com/PrathamC0DES" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -69,7 +69,7 @@ I prioritize clean architecture, maintainable code, and shipping software that s
     <!-- Project 1 -->
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/PrathamC0DES/LLM---Detect-AI-Generated-Text">🤖 LLM — AI Text Detection System</a>
+        <a href="https://github.com/PrathamC0DES/LLM---Detect-AI-Generated-Text">LLM — AI Text Detection System</a>
       </h3>
       <p>
         <img src="https://skillicons.dev/icons?i=python,pytorch" height="30" />
@@ -79,7 +79,7 @@ I prioritize clean architecture, maintainable code, and shipping software that s
     <!-- Project 2 -->
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/PrathamC0DES/wildfire_prediction_deep-learning">🔥 Wildfire Spread Predictive Model</a>
+        <a href="https://github.com/PrathamC0DES/wildfire_prediction_deep-learning"> Wildfire Spread Predictive Model</a>
       </h3>
       <p>
         <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" height="30" />
@@ -91,7 +91,7 @@ I prioritize clean architecture, maintainable code, and shipping software that s
     <!-- Project 3 -->
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/PrathamC0DES/ai-web-agent">🌐 Autonomous Web Agent</a>
+        <a href="https://github.com/PrathamC0DES/ai-web-agent">Autonomous Web Agent</a>
       </h3>
       <p>
         <img src="https://skillicons.dev/icons?i=js,nodejs,html,css" height="30" />
@@ -101,7 +101,7 @@ I prioritize clean architecture, maintainable code, and shipping software that s
     <!-- Project 4 -->
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/PrathamC0DES/signal-clone">💬 Signal — Real-Time Messenger</a>
+        <a href="https://github.com/PrathamC0DES/signal-clone">Signal — Real-Time Messenger</a>
       </h3>
       <p>
         <img src="https://skillicons.dev/icons?i=ts,react,nodejs" height="30" />
