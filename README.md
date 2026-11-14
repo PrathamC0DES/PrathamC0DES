@@ -60,79 +60,80 @@ Currently exploring **autonomous agent workflows**, **LLM optimization**, and **
 
 <hr />
 
-## 🚀 Featured Projects & Work
-
 
 <hr />
 
 <h2 align="center">🚀 Featured Projects</h2>
 <p align="center">
-  <i>Selected work across AI, deep learning, autonomous systems and full-stack development.</i>
+  <i>Selected projects across AI, intelligent systems and software engineering.</i>
 </p>
 
-<table align="center">
+<table align="center" border="0" cellpadding="12" cellspacing="8">
   <tr>
-    <td align="center" width="33%">
+    <td width="50%" align="center" bgcolor="#0D1117">
       <a href="https://github.com/PrathamC0DES/LLM---Detect-AI-Generated-Text">
-        <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="65" />
-        <br />
-        <b>LLM - Detect AI Text</b>
+        <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="54" />
+        <br /><br />
+        <strong>LLM Detection</strong>
       </a>
       <br /><br />
-      <sub>BERT-powered AI-generated text detection using contextual NLP.</sub>
+      <sub>BERT-based AI text identification using contextual NLP.</sub>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=python,pytorch" height="25" />
+      <img src="https://skillicons.dev/icons?i=python,pytorch" height="23" />
     </td>
-    <td align="center" width="33%">
+    <td width="50%" align="center" bgcolor="#0D1117">
       <a href="https://github.com/PrathamC0DES/wildfire_prediction_deep-learning">
-        <img src="https://img.icons8.com/fluency/96/fire-element.png" width="65" />
-        <br />
-        <b>Wildfire Prediction</b>
+        <img src="https://img.icons8.com/fluency/96/fire-element.png" width="54" />
+        <br /><br />
+        <strong>Wildfire Prediction</strong>
       </a>
       <br /><br />
-      <sub>Deep learning architectures for environmental risk prediction.</sub>
+      <sub>Deep learning models for environmental risk prediction.</sub>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=python,pytorch" height="25" />
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/PrathamC0DES/ai-web-agent">
-        <img src="https://img.icons8.com/fluency/96/bot.png" width="65" />
-        <br />
-        <b>AI Web Agent</b>
-      </a>
-      <br /><br />
-      <sub>Autonomous browser interaction, web scraping and automation.</sub>
-      <br /><br />
-      <img src="https://skillicons.dev/icons?i=js,nodejs" height="25" />
+      <img src="https://skillicons.dev/icons?i=python,pytorch" height="23" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/PrathamC0DES/signal-clone">
-        <img src="https://img.icons8.com/fluency/96/chat.png" width="65" />
-        <br />
-        <b>Signal Clone</b>
+    <td width="50%" align="center" bgcolor="#0D1117">
+      <a href="https://github.com/PrathamC0DES/ai-web-agent">
+        <img src="https://img.icons8.com/fluency/96/bot.png" width="54" />
+        <br /><br />
+        <strong>AI Web Agent</strong>
       </a>
       <br /><br />
-      <sub>Real-time messaging application with WebSocket-based communication.</sub>
+      <sub>Autonomous browser interaction and intelligent automation.</sub>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=ts,react" height="25" />
+      <img src="https://skillicons.dev/icons?i=js,nodejs" height="23" />
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/PrathamC0DES/FloatChat">
-        <img src="https://img.icons8.com/fluency/96/chatbot.png" width="65" />
-        <br />
-        <b>FloatChat</b>
+    <td width="50%" align="center" bgcolor="#0D1117">
+      <a href="https://github.com/PrathamC0DES/signal-clone">
+        <img src="https://img.icons8.com/fluency/96/chat.png" width="54" />
+        <br /><br />
+        <strong>Signal Clone</strong>
       </a>
       <br /><br />
-      <sub>Interactive AI-powered conversational assistant.</sub>
+      <sub>Real-time messaging with WebSocket communication.</sub>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=python,react" height="25" />
+      <img src="https://skillicons.dev/icons?i=ts,react" height="23" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" bgcolor="#0D1117">
+      <a href="https://github.com/PrathamC0DES/FloatChat">
+        <img src="https://img.icons8.com/fluency/96/chatbot.png" width="54" />
+        <br /><br />
+        <strong>FloatChat</strong>
+      </a>
+      <br /><br />
+      <sub>Interactive conversational assistant with AI-powered responses.</sub>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=python,react" height="23" />
     </td>
   </tr>
 </table>
 
 <hr />
+
 
 
 
