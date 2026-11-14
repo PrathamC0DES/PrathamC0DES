@@ -61,21 +61,21 @@ Currently exploring **autonomous agent workflows**, **LLM optimization**, and **
 <hr />
 
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
   <tr>
     <!-- Project 1 -->
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/PrathamC0DES/LLM---Detect-AI-Generated-Text">🤖 LLM — Detect AI Generated Text</a>
+        <a href="https://github.com/PrathamC0DES/LLM---Detect-AI-Generated-Text">LLM — AI Text Detection System</a>
       </h3>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
         <img src="https://img.shields.io/badge/BERT-4285F4?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLP-3776AB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
-      <p>High-precision BERT-powered NLP classifier engineered to differentiate between human-written and machine-generated text with high accuracy.</p>
+      <p>Fine-tuned BERT classification pipeline engineered to accurately distinguish between human-authored and model-generated text.</p>
       <p>
         <a href="https://github.com/PrathamC0DES/LLM---Detect-AI-Generated-Text">
           <img src="https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white" height="24" />
@@ -85,14 +85,14 @@ Currently exploring **autonomous agent workflows**, **LLM optimization**, and **
     <!-- Project 2 -->
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/PrathamC0DES/wildfire_prediction_deep-learning">🔥 Wildfire Prediction Model</a>
+        <a href="https://github.com/PrathamC0DES/wildfire_prediction_deep-learning">Wildfire Spread Predictive Model</a>
       </h3>
       <p>
         <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square" />
+        <img src="https://img.shields.io/badge/CNN-009688?style=flat-square" />
       </p>
-      <p>Predictive environmental modeling pipeline utilizing deep learning architectures to forecast wildfire spread and assess risk indices.</p>
+      <p>Predictive environmental modeling pipeline leveraging deep learning architectures to forecast wildfire spread dynamics and calculate risk indices.</p>
       <p>
         <a href="https://github.com/PrathamC0DES/wildfire_prediction_deep-learning">
           <img src="https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white" height="24" />
@@ -104,14 +104,14 @@ Currently exploring **autonomous agent workflows**, **LLM optimization**, and **
     <!-- Project 3 -->
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/PrathamC0DES/ai-web-agent">🌐 Autonomous AI Web Agent</a>
+        <a href="https://github.com/PrathamC0DES/ai-web-agent">Autonomous Web Agent</a>
       </h3>
       <p>
-        <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=flat-square" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Automation-00C7B7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Agents-8A2BE2?style=flat-square" />
       </p>
-      <p>Autonomous browser agent capable of complex DOM navigation, dynamic element interaction, multi-step workflows, and automated web tasks.</p>
+      <p>Self-directed browser agent capable of complex DOM navigation, dynamic element interaction, multi-step workflows, and structured data extraction.</p>
       <p>
         <a href="https://github.com/PrathamC0DES/ai-web-agent">
           <img src="https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white" height="24" />
@@ -121,14 +121,14 @@ Currently exploring **autonomous agent workflows**, **LLM optimization**, and **
     <!-- Project 4 -->
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/PrathamC0DES/signal-clone">💬 Signal Full-Stack Clone</a>
+        <a href="https://github.com/PrathamC0DES/signal-clone">Signal — Real-Time Messenger</a>
       </h3>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" />
       </p>
-      <p>Full-stack secure messaging web application built with TypeScript, featuring bidirectional real-time communications and a modern responsive UI.</p>
+      <p>Full-stack messaging application built with TypeScript, featuring bidirectional real-time communications, secure endpoints, and modern UI.</p>
       <p>
         <a href="https://github.com/PrathamC0DES/signal-clone">
           <img src="https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white" height="24" />
@@ -137,7 +137,6 @@ Currently exploring **autonomous agent workflows**, **LLM optimization**, and **
     </td>
   </tr>
 </table>
-
 
 
 
