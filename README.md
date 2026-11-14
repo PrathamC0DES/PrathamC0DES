@@ -1,7 +1,7 @@
 # Pratham Mishra
 **CS @ Bennett University**
 <div align="center">
-  <img src="https://https://tenor.com/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487" width="100%" alt="Coding GIF" />
+  <img src="https://https://tenor.com/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487.gif" width="100%" alt="Coding GIF" />
   <p align="center" style="margin-top: 0;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=550&lines=AI+%26+Full-Stack+Developer;Building+Autonomous+Agents+%26+LLM+Apps;Turning+coffee+into+scalable+code;" alt="Typing subtitle" />
 </p>
