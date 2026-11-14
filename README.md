@@ -62,44 +62,106 @@ Currently exploring **autonomous agent workflows**, **LLM optimization**, and **
 
 ## 🚀 Featured Projects & Work
 
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/PrathamC0DES/LLM---Detect-AI-Generated-Text"><strong>LLM - Detect AI Text</strong></a></td>
-      <td>BERT-powered solution for accurately identifying AI-generated vs human-written text.</td>
-      <td><code>Python</code> <code>PyTorch</code> <code>BERT</code> <code>NLP</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/PrathamC0DES/wildfire_prediction_deep-learning"><strong>Wildfire Prediction DL</strong></a></td>
-      <td>Deep learning predictive modeling for environmental risk analysis and hazard forecasting.</td>
-      <td><code>Python</code> <code>Deep Learning</code> <code>CNN</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/PrathamC0DES/ai-web-agent"><strong>AI Web Agent</strong></a></td>
-      <td>Autonomous agent architecture designed for web interaction, scraping, and automated flows.</td>
-      <td><code>JavaScript</code> <code>Agents</code> <code>Automation</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/PrathamC0DES/signal-clone"><strong>Signal Clone</strong></a></td>
-      <td>Full-stack messaging application focusing on real-time secure communication and WebSockets.</td>
-      <td><code>TypeScript</code> <code>React</code> <code>WebSockets</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/PrathamC0DES/FloatChat"><strong>FloatChat</strong></a></td>
-      <td>Interactive floating conversational assistant widget with lightweight integration.</td>
-      <td><code>Python</code> <code>Full-Stack</code></td>
-    </tr>
-  </tbody>
+
+<hr />
+
+<h2 align="center">🚀 Featured Projects</h2>
+<p align="center">
+  <i>A selection of projects exploring AI, deep learning, automation, and full-stack engineering.</i>
+</p>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 LLM - Detect AI Text</h3>
+      <p align="center">
+        <a href="https://github.com/PrathamC0DES/LLM---Detect-AI-Generated-Text">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        BERT-powered NLP system for distinguishing AI-generated content from human-written text through contextual language analysis.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/BERT-58A6FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/NLP-8957E5?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔥 Wildfire Prediction DL</h3>
+      <p align="center">
+        <a href="https://github.com/PrathamC0DES/wildfire_prediction_deep-learning">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        Deep learning-based environmental risk modeling using neural network architectures for wildfire prediction and spatial hazard analysis.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Deep_Learning-8957E5?style=flat-square" />
+        <img src="https://img.shields.io/badge/CNN-58A6FF?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AI Web Agent</h3>
+      <p align="center">
+        <a href="https://github.com/PrathamC0DES/ai-web-agent">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        An autonomous web interaction and automation project focused on browser workflows, intelligent navigation, and web scraping.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/AI_Agents-8957E5?style=flat-square" />
+        <img src="https://img.shields.io/badge/Automation-58A6FF?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💬 Signal Clone</h3>
+      <p align="center">
+        <a href="https://github.com/PrathamC0DES/signal-clone">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        Full-stack messaging application exploring real-time communication, interactive interfaces, and WebSocket-based data exchange.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/WebSockets-58A6FF?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🌊 FloatChat</h3>
+      <p>
+        <a href="https://github.com/PrathamC0DES/FloatChat">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        An interactive conversational assistant integrating AI-powered responses with a lightweight, accessible user interface.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/RAG-8957E5?style=flat-square" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 <hr />
+
 
 <p align="center">
   <i>Let's connect and build something awesome together.</i>
