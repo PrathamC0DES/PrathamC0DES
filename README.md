@@ -67,100 +67,73 @@ Currently exploring **autonomous agent workflows**, **LLM optimization**, and **
 
 <h2 align="center">🚀 Featured Projects</h2>
 <p align="center">
-  <i>A selection of projects exploring AI, deep learning, automation, and full-stack engineering.</i>
+  <i>Selected work across AI, deep learning, autonomous systems and full-stack development.</i>
 </p>
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 LLM - Detect AI Text</h3>
-      <p align="center">
-        <a href="https://github.com/PrathamC0DES/LLM---Detect-AI-Generated-Text">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        BERT-powered NLP system for distinguishing AI-generated content from human-written text through contextual language analysis.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/BERT-58A6FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/NLP-8957E5?style=flat-square" />
-      </p>
+    <td align="center" width="33%">
+      <a href="https://github.com/PrathamC0DES/LLM---Detect-AI-Generated-Text">
+        <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="65" />
+        <br />
+        <b>LLM - Detect AI Text</b>
+      </a>
+      <br /><br />
+      <sub>BERT-powered AI-generated text detection using contextual NLP.</sub>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=python,pytorch" height="25" />
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔥 Wildfire Prediction DL</h3>
-      <p align="center">
-        <a href="https://github.com/PrathamC0DES/wildfire_prediction_deep-learning">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        Deep learning-based environmental risk modeling using neural network architectures for wildfire prediction and spatial hazard analysis.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Deep_Learning-8957E5?style=flat-square" />
-        <img src="https://img.shields.io/badge/CNN-58A6FF?style=flat-square" />
-      </p>
+    <td align="center" width="33%">
+      <a href="https://github.com/PrathamC0DES/wildfire_prediction_deep-learning">
+        <img src="https://img.icons8.com/fluency/96/fire-element.png" width="65" />
+        <br />
+        <b>Wildfire Prediction</b>
+      </a>
+      <br /><br />
+      <sub>Deep learning architectures for environmental risk prediction.</sub>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=python,pytorch" height="25" />
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 AI Web Agent</h3>
-      <p align="center">
-        <a href="https://github.com/PrathamC0DES/ai-web-agent">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        An autonomous web interaction and automation project focused on browser workflows, intelligent navigation, and web scraping.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/AI_Agents-8957E5?style=flat-square" />
-        <img src="https://img.shields.io/badge/Automation-58A6FF?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💬 Signal Clone</h3>
-      <p align="center">
-        <a href="https://github.com/PrathamC0DES/signal-clone">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        Full-stack messaging application exploring real-time communication, interactive interfaces, and WebSocket-based data exchange.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/WebSockets-58A6FF?style=flat-square" />
-      </p>
+    <td align="center" width="33%">
+      <a href="https://github.com/PrathamC0DES/ai-web-agent">
+        <img src="https://img.icons8.com/fluency/96/bot.png" width="65" />
+        <br />
+        <b>AI Web Agent</b>
+      </a>
+      <br /><br />
+      <sub>Autonomous browser interaction, web scraping and automation.</sub>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=js,nodejs" height="25" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <h3>🌊 FloatChat</h3>
-      <p>
-        <a href="https://github.com/PrathamC0DES/FloatChat">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>
-        An interactive conversational assistant integrating AI-powered responses with a lightweight, accessible user interface.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/RAG-8957E5?style=flat-square" />
-      </p>
+    <td align="center" width="50%">
+      <a href="https://github.com/PrathamC0DES/signal-clone">
+        <img src="https://img.icons8.com/fluency/96/chat.png" width="65" />
+        <br />
+        <b>Signal Clone</b>
+      </a>
+      <br /><br />
+      <sub>Real-time messaging application with WebSocket-based communication.</sub>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=ts,react" height="25" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/PrathamC0DES/FloatChat">
+        <img src="https://img.icons8.com/fluency/96/chatbot.png" width="65" />
+        <br />
+        <b>FloatChat</b>
+      </a>
+      <br /><br />
+      <sub>Interactive AI-powered conversational assistant.</sub>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=python,react" height="25" />
     </td>
   </tr>
 </table>
 
 <hr />
+
 
 
 <p align="center">
