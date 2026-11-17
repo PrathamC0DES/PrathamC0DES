@@ -1,5 +1,5 @@
 # Pratham Mishra
-**CS @ Bennett University**
+**CS @ Bennett University **
 <div align="center">
   <img src="https://media.tenor.com/YUzRkMOL-3EAAAAd/programming-computer-frog.gif" width="90%" alt="Coding GIF" />
   <p align="center" style="margin-top: 0;">
