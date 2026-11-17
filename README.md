@@ -65,25 +65,24 @@ I prioritize clean architecture, maintainable code, and shipping software that s
 
 <hr />
 
-
 ## 🚀 Featured Projects
 
 <table width="100%">
   <tr>
-    <!-- Project 1 -->
+    <!-- Project 1: FloatChat -->
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/PrathamC0DES/LLM---Detect-AI-Generated-Text">LLM — AI Text Detection System</a>
+        <a href="https://github.com/PrathamC0DES/FloatChat">FloatChat — Floating Real-Time Chat System</a>
       </h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=python,pytorch" height="30" />
+        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs" height="30" />
       </p>
-      <p>Fine-tuned BERT classification pipeline engineered to accurately distinguish between human-authored and model-generated text.</p>
+      <p>Interactive floating messaging interface engineered with real-time bi-directional streaming, fluid UI animations, and modular client-side state handling.</p>
     </td>
-    <!-- Project 2 -->
+    <!-- Project 2: Wildfire Predictive Model -->
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/PrathamC0DES/wildfire_prediction_deep-learning"> Wildfire Spread Predictive Model</a>
+        <a href="https://github.com/PrathamC0DES/wildfire_prediction_deep-learning">Wildfire Spread Predictive Model</a>
       </h3>
       <p>
         <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" height="30" />
@@ -92,17 +91,17 @@ I prioritize clean architecture, maintainable code, and shipping software that s
     </td>
   </tr>
   <tr>
-    <!-- Project 3 -->
+    <!-- Project 3: K3s -->
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/PrathamC0DES/ai-web-agent">Autonomous Web Agent</a>
+        <a href="https://github.com/PrathamC0DES/k3s">K3s — Lightweight Kubernetes Cluster Automation</a>
       </h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=js,nodejs,html,css" height="30" />
+        <img src="https://skillicons.dev/icons?i=kubernetes,docker,linux,bash" height="30" />
       </p>
-      <p>Autonomous browser agent capable of complex DOM navigation, dynamic element interaction, multi-step workflows, and automated web tasks.</p>
+      <p>Automated deployment and orchestration pipeline for resource-efficient, production-grade lightweight Kubernetes (K3s) clusters on bare-metal and cloud environments.</p>
     </td>
-    <!-- Project 4 -->
+    <!-- Project 4: Signal Clone -->
     <td width="50%" valign="top">
       <h3 align="left">
         <a href="https://github.com/PrathamC0DES/signal-clone">Signal — Real-Time Messenger</a>
