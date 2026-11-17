@@ -47,19 +47,19 @@ I prioritize clean architecture, maintainable code, and shipping software that s
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrathamC0DES&theme=github_dark">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrathamC0DES&theme=github" alt="Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrathamC0DES&theme=github_dark&v=2">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrathamC0DES&theme=github&v=2" alt="Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrathamC0DES&theme=github_dark">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrathamC0DES&theme=github" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrathamC0DES&theme=github_dark&v=2">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrathamC0DES&theme=github&v=2" alt="Top Languages" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrathamC0DES&theme=github_dark">
-    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrathamC0DES&theme=github" alt="Profile Details" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrathamC0DES&theme=github_dark&v=2">
+    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrathamC0DES&theme=github&v=2" alt="Profile Details" />
   </picture>
 </p>
 
