@@ -42,11 +42,7 @@ I prioritize clean architecture, maintainable code, and shipping software that s
 
 
 <hr />
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=PrathamC0DES&theme=github-dark&hide_border=false&border_radius=6" alt="GitHub Streak" />
-</p>
 ## 📊 GitHub Analytics
 
 <p align="center">
