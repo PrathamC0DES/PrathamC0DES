@@ -121,5 +121,7 @@ I prioritize clean architecture, maintainable code, and shipping software that s
   <br /><br />
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrathamC0DES&style=for-the-badge&color=58A6FF" alt="Visitor Counter" />
+</p>
 
