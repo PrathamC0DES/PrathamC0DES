@@ -43,21 +43,10 @@ I prioritize clean architecture, maintainable code, and shipping software that s
 
 <hr />
 
-## 📊 GitHub Analytics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrathamC0DES&theme=dark&hide_border=true&ring=6EC0C6&fire=297CB2&currStreakNum=96D58D&currStreakLabel=BB82D1&sideLabels=B97CBF&background=000000)](https://git.io/streak-stats)
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrathamC0DES&theme=github_dark&v=refresh1">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrathamC0DES&theme=github&v=refresh1" alt="Top Languages" />
-  </picture>
-</p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrathamC0DES&theme=github_dark&v=refresh1">
-    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrathamC0DES&theme=github&v=refresh1" alt="Profile Details" />
-  </picture>
-</p>
+
+ 
 
 <hr />
 
